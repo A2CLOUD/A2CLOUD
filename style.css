@@ -13,6 +13,11 @@ header {
     color: white;
 }
 
+header h1 a {
+    color: white;
+    text-decoration: none;
+}
+
 .container {
     display: flex;
     margin: 20px;
@@ -50,4 +55,13 @@ ul li {
     padding: 10px;
     margin-bottom: 10px;
     border-bottom: 1px solid #ddd;
+}
+
+.post h3 a {
+    color: #333;
+    text-decoration: none;
+}
+
+.post h3 a:hover {
+    color: #4CAF50;
 }
