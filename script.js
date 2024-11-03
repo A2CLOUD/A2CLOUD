@@ -1,8 +1,8 @@
 // Sample Posts Data
 const posts = [
-    { title: "Top 20 VoIP Providers for Small Businesses", content: "Explore the best VoIP providers for small businesses, including features, pricing, and setup details." },
-    { title: "How to Choose the Right VoIP Provider", content: "Learn what to consider when choosing a VoIP provider to meet your business needs." },
-    { title: "Benefits of Using VoIP for Remote Teams", content: "Discover how VoIP solutions can support remote teams with cost savings and flexibility." },
+    { title: "Hostinger vs Bluehost: A Comprehensive Comparison", content: "Explore the best VoIP providers for small businesses, including features, pricing, and setup details." },
+    { title: "AWS vs. DigitalOcean: A Comprehensive Comparison", content: "Learn what to consider when choosing a VoIP provider to meet your business needs." },
+    { title: "The Best Cloud Server Providers in 2024", content: "Discover how VoIP solutions can support remote teams with cost savings and flexibility." },
     { title: "Comparing VoIP Providers for Enterprises", content: "A look at top VoIP providers and how they serve large organizations." },
     { title: "VoIP vs. Traditional Phone Systems", content: "Understand the differences between VoIP and traditional phone systems." },
     { title: "Cloud-Based VoIP Solutions", content: "Benefits and features of cloud-based VoIP solutions for businesses." },
