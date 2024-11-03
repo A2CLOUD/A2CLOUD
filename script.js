@@ -26,7 +26,7 @@ function displayPosts() {
 // Function to Display Latest Posts in Sidebar
 function displayLatestPosts() {
     const latestPostsContainer = document.getElementById('latest-posts');
-    posts.slice(0, 5).forEach((post, index) => {
+    posts.slice(0, 8).forEach((post, index) => {
         const postItem = document.createElement('li');
         postItem.innerHTML = `<a href="post${index + 1}.html">${post.title}</a>`;
         latestPostsContainer.appendChild(postItem);
